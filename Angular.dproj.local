@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/12 19:11:15.000.644,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/07 01:02:55.000.398,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/07 01:04:21.000.152,H:\Developer\Empresa\Fontes\Empresa.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/07 01:04:21.000.152,H:\Developer\Empresa\Fontes\Empresa.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/08/07 01:04:24.000.567,H:\Developer\Empresa\Fontes\Project1.dproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/08/07 01:08:20.000.251,=H:\Developer\Empresa\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/08/07 01:38:14.000.901,H:\Developer\Empresa\Fontes\DataModule.dfm=H:\Developer\Empresa\Fontes\Unit1.dfm</Transaction>
+    <Transaction>2021/08/07 01:38:14.000.901,H:\Developer\Empresa\Fontes\DataModule.pas=H:\Developer\Empresa\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/08/07 01:40:14.000.210,H:\Developer\Empresa\Fontes\DataModule.pas=H:\Developer\Empresa\Fontes\Unit_dados.pas</Transaction>
+    <Transaction>2021/08/07 01:40:14.000.210,H:\Developer\Empresa\Fontes\DataModule.dfm=H:\Developer\Empresa\Fontes\Unit_dados.dfm</Transaction>
+    <Transaction>2021/08/07 01:47:25.000.401,=C:\Dev\Empresa\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/08/07 02:05:18.000.673,C:\Dev\Empresa\Fontes\Unit_login.pas=C:\Dev\Empresa\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/08/07 02:05:18.000.673,C:\Dev\Empresa\Fontes\Unit_login.dfm=C:\Dev\Empresa\Fontes\Unit1.dfm</Transaction>
+    <Transaction>2021/08/08 21:29:11.000.833,C:\Dev\Empresa\Fontes\Angular.dproj=C:\Dev\Empresa\Fontes\Project1.dproj</Transaction>
+    <Transaction>2021/08/10 15:03:34.000.012,=C:\Dev\Empresa\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/08/10 15:05:24.000.745,C:\Dev\Empresa\Fontes\Unit1.pas=C:\Dev\Empresa\Fontes\Unit_config_servidor.pas</Transaction>
+    <Transaction>2021/08/10 15:05:24.000.745,C:\Dev\Empresa\Fontes\Unit1.dfm=C:\Dev\Empresa\Fontes\Unit_config_servidor.dfm</Transaction>
+    <Transaction>2021/08/11 15:06:04.000.623,=C:\Dev\Empresa\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/08/11 15:07:41.000.266,C:\Dev\Empresa\Fontes\Unit1.dfm=C:\Dev\Empresa\Fontes\Unit_mensagens.dfm</Transaction>
+    <Transaction>2021/08/11 15:07:41.000.266,C:\Dev\Empresa\Fontes\Unit1.pas=C:\Dev\Empresa\Fontes\Unit_mensagens.pas</Transaction>
+    <Transaction>2021/08/11 16:02:38.000.559,=C:\Dev\Empresa\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/08/11 16:03:01.000.129,C:\Dev\Empresa\Fontes\Unit1.pas=C:\Dev\Empresa\Fontes\Unit_funcoes.pas</Transaction>
+    <Transaction>2021/08/11 17:00:24.000.215,C:\Dev\Empresa\Fontes\Empresa.dfm=C:\Dev\Empresa\Fontes\Unit_principal.dfm</Transaction>
+    <Transaction>2021/08/11 17:00:24.000.215,C:\Dev\Empresa\Fontes\Empresa.pas=C:\Dev\Empresa\Fontes\Unit_principal.pas</Transaction>
+    <Transaction>2021/08/12 15:51:17.000.739,=C:\Dev\Empresa\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/08/12 15:59:33.000.606,=C:\Dev\Empresa\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/08/12 16:00:43.000.967,C:\Dev\Empresa\Fontes\Unit_funcoes.pas=C:\Dev\Empresa\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/08/12 16:52:10.000.267,=C:\Dev\Empresa\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/08/12 16:52:50.000.172,C:\Dev\Empresa\Fontes\Unit1.pas=C:\Dev\Empresa\Fontes\classe.conexao.pas</Transaction>
+    <Transaction>2021/08/13 14:48:00.000.815,=C:\Dev\Empresa\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 14:49:11.000.215,C:\Dev\Empresa\Fontes\Unit_campo_obrigatorio.pas=C:\Dev\Empresa\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 15:25:26.000.732,=C:\Dev\Empresa\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/08/13 15:25:54.000.521,C:\Dev\Empresa\Fontes\Unit_remover_caracteres.pas=C:\Dev\Empresa\Fontes\Unit1.pas</Transaction>
+    <Transaction>2021/11/25 15:10:36.000.071,=C:\Dev\Empresa\Fontes\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="classe.conexao.pas"/>
+    <File Path="Unit_campo_obrigatorio.pas"/>
+    <File Path="Unit_config_servidor.pas"/>
+    <File Path="Unit_config_servidor.dfm"/>
+    <File Path="Unit_dados.pas"/>
+    <File Path="Unit_dados.dfm"/>
+    <File Path="Unit_funcoes.pas"/>
+    <File Path="Unit_login.pas"/>
+    <File Path="Unit_login.dfm"/>
+    <File Path="Unit_mensagens.pas"/>
+    <File Path="Unit_mensagens.dfm"/>
+    <File Path="Unit_principal.pas"/>
+    <File Path="Unit_principal.dfm"/>
+    <File Path="Unit_remover_caracteres.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
